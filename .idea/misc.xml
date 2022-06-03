@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AbhishekAndroidStudioProject/LoginPage/app/src/main/res/layout/activity_face_book_login_deep_link.xml" value="0.17916666666666667" />
+        <entry key="..\:/AbhishekAndroidStudioProject/LoginPage/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/AbhishekAndroidStudioProject/LoginPage/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/AbhishekAndroidStudioProject/LoginPage/app/src/main/res/layout/activity_main.xml" value="0.16" />
       </map>
     </option>
@@ -12,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
   </component>
 </project>

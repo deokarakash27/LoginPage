@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void init(){
-        login = findViewById(R.id.btnlogin);
+        login = findViewById(R.id.btnLogIn);
         email = findViewById(R.id.edtTxtEmail);
         password = findViewById(R.id.edtTxtPassword);
     }
