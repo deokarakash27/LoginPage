@@ -107,7 +107,7 @@
         tools:ignore="MissingConstraints"/>
 
     <com.facebook.login.widget.LoginButton
-        android:id="@+id/btnFaceBookLogIn"
+        android:id="@+id/button_facebook"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -115,6 +115,5 @@
         app:layout_constraintTop_toBottomOf="@id/txtViewOr"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="106dp" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,8 +3,6 @@ package com.example.loginpage;
 import androidx.appcompat.app.AppCompatActivity;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
-
-
 import android.os.Bundle;
 
     public class FaceBookLoginDeepLink extends AppCompatActivity {
